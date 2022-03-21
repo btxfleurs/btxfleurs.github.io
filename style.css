@@ -139,7 +139,7 @@ body {
         width: 164px;
         height: 58px;
         left: 130px;
-        top: 400px;
+        top: 420px;
         border: none;
         background: #000000;
     
@@ -153,7 +153,7 @@ body {
 
     .teste {
         position: absolute;
-        top: 550px;
+        top: 500px;
     }
 
 }
