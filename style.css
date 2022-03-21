@@ -93,7 +93,8 @@ body {
     .cabecalho {
         position: absolute;
         height: 26px;
-        left: 65px;
+        left: 6opx;
+        right: 60px;
         top: 16px;
     }
     
